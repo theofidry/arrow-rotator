@@ -1,0 +1,27 @@
+{
+  "name": "arrow-rotator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/theofidry/arrowRotator",
+  "authors": [
+    "Théo FIDRY <theo.fidry@gmail.com>"
+  ],
+  "description": "Simple library to rotate elements and changing their colors depending of the angle.",
+  "main": "arrow-rotator.js",
+  "keywords": [
+    "arrow",
+    "rotate",
+    "rotator"
+  ],
+  "license": "GPL-2.0+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:theofidry/arrow-rotator.git"
+  }
+}
