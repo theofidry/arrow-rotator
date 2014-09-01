@@ -13,7 +13,7 @@ Simple JavaScript library to animate arrows and changing their color in the proc
 Install with Bower:
 
 ```bash
-bower install arrow-rotator
+bower install arrow-rotator --save-dev
 ```
 
 And then extract the file `arrow-rotator.js`.
